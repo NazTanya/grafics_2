@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tanya\source\repos\computer_grafics_2\computer_grafics_2\main.cpp(770): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tanya\source\repos\computer_grafics_2\computer_grafics_2\main.cpp(775): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tanya\source\repos\computer_grafics_2\computer_grafics_2\main.cpp(780): warning C4018: <: несоответствие типов со знаком и без знака
+  computer_grafics_2.vcxproj -> C:\Users\Tanya\source\repos\computer_grafics_2\Debug\computer_grafics_2.exe
